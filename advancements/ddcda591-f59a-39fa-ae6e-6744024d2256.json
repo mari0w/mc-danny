@@ -1539,6 +1539,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-10-03 14:59:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-10-03 14:59:31 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-10-03 14:59:35 +0800"
@@ -1551,9 +1563,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_copper_door_from_honeycomb": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_copper_door": "2025-10-03 15:49:28 +0800"
+      "has_black_wool": "2025-10-03 14:59:35 +0800"
     },
     "done": true
   },
@@ -1563,21 +1575,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
+  "minecraft:recipes/building_blocks/waxed_copper_door_from_honeycomb": {
     "criteria": {
-      "has_gray_wool": "2025-10-03 14:59:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-10-03 14:59:35 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-10-03 14:59:31 +0800"
+      "has_copper_door": "2025-10-03 15:49:28 +0800"
     },
     "done": true
   },
