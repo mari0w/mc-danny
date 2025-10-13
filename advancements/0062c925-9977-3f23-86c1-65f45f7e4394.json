@@ -146,7 +146,8 @@
       "minecraft:enderman": "2025-10-02 22:31:27 +0800",
       "minecraft:spider": "2025-10-02 22:34:50 +0800",
       "minecraft:zombie": "2025-10-01 14:42:14 +0800",
-      "minecraft:creeper": "2025-10-02 21:29:21 +0800"
+      "minecraft:creeper": "2025-10-02 21:29:21 +0800",
+      "minecraft:slime": "2025-10-13 17:21:15 +0800"
     },
     "done": false
   },
@@ -532,7 +533,8 @@
       "sweet_berries": "2025-10-06 21:24:50 +0800",
       "cooked_beef": "2025-10-01 15:00:18 +0800",
       "beef": "2025-10-01 15:20:44 +0800",
-      "melon_slice": "2025-10-02 23:20:50 +0800"
+      "melon_slice": "2025-10-02 23:20:50 +0800",
+      "golden_carrot": "2025-10-13 15:33:18 +0800"
     },
     "done": false
   },
@@ -3740,6 +3742,90 @@
   "minecraft:recipes/decorations/red_bed": {
     "criteria": {
       "has_red_wool": "2025-10-12 14:34:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-10-13 15:33:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-10-13 15:33:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-10-13 15:51:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-10-13 15:51:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-10-13 17:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-10-13 17:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs": {
+    "criteria": {
+      "has_tuff_bricks": "2025-10-13 17:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-10-13 17:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_bricks": "2025-10-13 17:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_brick_wall": {
+    "criteria": {
+      "has_tuff_bricks": "2025-10-13 17:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab": {
+    "criteria": {
+      "has_tuff_bricks": "2025-10-13 17:16:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-10-13 17:16:21 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-10-13 17:21:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-10-13 17:21:22 +0800"
     },
     "done": true
   },
