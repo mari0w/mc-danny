@@ -529,6 +529,7 @@
       "apple": "2025-10-01 15:03:12 +0800",
       "bread": "2025-10-01 22:50:40 +0800",
       "cooked_chicken": "2025-10-05 17:25:13 +0800",
+      "suspicious_stew": "2025-10-18 23:59:55 +0800",
       "cooked_mutton": "2025-10-01 15:22:49 +0800",
       "sweet_berries": "2025-10-06 21:24:50 +0800",
       "cooked_beef": "2025-10-01 15:00:18 +0800",
@@ -3832,6 +3833,30 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-10-14 17:59:37 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-10-18 23:44:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-10-18 23:44:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-10-19 01:24:17 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leaf_litter": {
+    "criteria": {
+      "has_leaves": "2025-10-19 01:45:10 +0800"
     },
     "done": true
   },
