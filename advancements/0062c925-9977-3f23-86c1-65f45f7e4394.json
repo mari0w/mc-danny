@@ -529,17 +529,18 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-10-01 17:50:00 +0800",
-      "apple": "2025-10-01 15:03:12 +0800",
       "bread": "2025-10-01 22:50:40 +0800",
-      "cooked_chicken": "2025-10-05 17:25:13 +0800",
       "suspicious_stew": "2025-10-18 23:59:55 +0800",
       "cooked_mutton": "2025-10-01 15:22:49 +0800",
       "sweet_berries": "2025-10-06 21:24:50 +0800",
       "cooked_beef": "2025-10-01 15:00:18 +0800",
       "beef": "2025-10-01 15:20:44 +0800",
       "melon_slice": "2025-10-02 23:20:50 +0800",
-      "pumpkin_pie": "2025-10-25 00:00:04 +0800",
-      "golden_carrot": "2025-10-13 15:33:18 +0800"
+      "golden_carrot": "2025-10-13 15:33:18 +0800",
+      "apple": "2025-10-01 15:03:12 +0800",
+      "cooked_chicken": "2025-10-05 17:25:13 +0800",
+      "potato": "2026-01-18 19:44:33 +0800",
+      "pumpkin_pie": "2025-10-25 00:00:04 +0800"
     },
     "done": false
   },
@@ -3862,6 +3863,72 @@
   "minecraft:recipes/misc/leaf_litter": {
     "criteria": {
       "has_leaves": "2025-10-19 01:45:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/orange_bundle": {
+    "criteria": {
+      "has_orange_dye": "2026-01-18 20:30:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2026-01-18 20:30:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2026-01-18 19:59:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2026-01-18 19:32:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2026-01-18 19:55:47 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-18 20:30:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-18 20:30:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-18 20:30:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_orange_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-01-18 20:30:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2026-01-18 19:32:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2026-01-18 19:32:10 +0800"
     },
     "done": true
   },

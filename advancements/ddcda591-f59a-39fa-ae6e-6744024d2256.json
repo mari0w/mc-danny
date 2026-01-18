@@ -2061,9 +2061,147 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_yellow_bed": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "has_needed_dye": "2026-01-01 23:50:48 +0800"
+      "has_iron_nugget": "2026-01-01 22:47:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_light_gray_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:03:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:03:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:03:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/light_gray_bundle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-01-01 23:03:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_light_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:03:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2026-01-01 23:03:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-01-01 23:35:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2026-01-01 23:35:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2026-01-01 23:36:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2026-01-01 23:36:32 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2026-01-01 23:38:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2026-01-01 23:38:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/red_bundle": {
+    "criteria": {
+      "has_red_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/dye_red_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:41:29 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2026-01-01 23:41:29 +0800"
     },
     "done": true
   },
@@ -2085,69 +2223,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-01-01 23:35:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_light_gray_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:03:33 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2026-01-01 23:48:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_light_gray_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:03:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_yellow_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2026-01-01 23:38:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_light_gray_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:03:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/purple_dye": {
-    "criteria": {
-      "has_red_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2026-01-01 23:35:39 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
-    "criteria": {
-      "has_red_dye": "2026-01-01 23:41:29 +0800"
     },
     "done": true
   },
@@ -2157,99 +2235,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/dye_red_bed": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2026-01-01 23:36:32 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_candle": {
-    "criteria": {
-      "has_red_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/light_gray_bundle": {
-    "criteria": {
-      "has_light_gray_dye": "2026-01-01 23:03:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_light_gray_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:03:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_candle": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-01 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_candle": {
-    "criteria": {
-      "has_light_gray_dye": "2026-01-01 23:03:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/red_bundle": {
-    "criteria": {
-      "has_red_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/blue_bundle": {
     "criteria": {
       "has_blue_dye": "2026-01-01 23:48:22 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_red_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_yellow_wool": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:50:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/dye_red_harness": {
-    "criteria": {
-      "has_needed_dye": "2026-01-01 23:41:29 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2026-01-01 23:38:31 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/yellow_bundle": {
-    "criteria": {
-      "has_yellow_dye": "2026-01-01 23:50:48 +0800"
     },
     "done": true
   },
@@ -2259,33 +2247,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/dye_blue_harness": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:48:22 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-01 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2026-01-01 23:50:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/yellow_bundle": {
+    "criteria": {
+      "has_yellow_dye": "2026-01-01 23:50:48 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/dye_yellow_harness": {
     "criteria": {
       "has_needed_dye": "2026-01-01 23:50:48 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+  "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
-      "has_rose_red": "2026-01-01 23:41:29 +0800"
+      "has_diamond": "2026-01-18 19:54:12 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
-      "has_reeds": "2026-01-01 23:36:32 +0800"
+      "has_slime_ball": "2026-01-18 20:41:27 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
-      "has_iron_nugget": "2026-01-01 22:47:19 +0800"
+      "has_polished_andesite": "2026-01-18 19:38:13 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/combat/dye_blue_harness": {
+  "minecraft:recipes/food/suspicious_stew_from_red_tulip": {
     "criteria": {
-      "has_needed_dye": "2026-01-01 23:48:22 +0800"
+      "has_red_tulip": "2026-01-18 19:55:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-18 19:38:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-01-18 20:41:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2026-01-18 19:55:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-18 19:38:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2026-01-18 19:38:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2026-01-18 19:54:12 +0800"
     },
     "done": true
   },

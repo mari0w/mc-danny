@@ -2880,5 +2880,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2026-01-18 19:56:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2026-01-18 20:00:15 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
