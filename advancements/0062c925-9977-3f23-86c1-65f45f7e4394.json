@@ -3866,15 +3866,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/orange_bundle": {
+  "minecraft:recipes/decorations/pink_bed": {
     "criteria": {
-      "has_orange_dye": "2026-01-18 20:30:08 +0800"
+      "has_pink_wool": "2026-01-18 19:32:10 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_candle": {
+  "minecraft:recipes/decorations/pink_carpet": {
     "criteria": {
-      "has_orange_dye": "2026-01-18 20:30:08 +0800"
+      "has_pink_wool": "2026-01-18 19:32:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2026-01-18 19:32:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+    "criteria": {
+      "has_pink_terracotta": "2026-01-18 19:55:47 +0800"
     },
     "done": true
   },
@@ -3884,15 +3896,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed": {
+  "minecraft:recipes/tools/orange_bundle": {
     "criteria": {
-      "has_pink_wool": "2026-01-18 19:32:10 +0800"
+      "has_orange_dye": "2026-01-18 20:30:08 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_glazed_terracotta": {
+  "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
-      "has_pink_terracotta": "2026-01-18 19:55:47 +0800"
+      "has_orange_dye": "2026-01-18 20:30:08 +0800"
     },
     "done": true
   },
@@ -3920,15 +3932,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_carpet": {
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
-      "has_pink_wool": "2026-01-18 19:32:10 +0800"
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_banner": {
+  "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
-      "has_pink_wool": "2026-01-18 19:32:10 +0800"
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-01-24 23:13:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2026-02-09 22:07:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2026-02-09 22:07:41 +0800"
     },
     "done": true
   },
