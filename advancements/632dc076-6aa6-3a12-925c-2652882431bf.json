@@ -3204,39 +3204,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_slab": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/lime_shulker_box": {
-    "criteria": {
-      "has_shulker_box": "2026-02-21 21:07:26 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab": {
     "criteria": {
       "has_purpur_block": "2026-02-21 21:06:10 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
+  "minecraft:recipes/building_blocks/purpur_pillar": {
     "criteria": {
-      "has_diamond_block": "2026-02-21 22:01:58 +0800"
+      "has_purpur_block": "2026-02-21 21:06:10 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_trapdoor_from_honeycomb": {
+  "minecraft:recipes/building_blocks/purpur_stairs": {
     "criteria": {
-      "has_oxidized_copper_trapdoor": "2026-02-21 22:20:44 +0800"
+      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-02-21 21:07:13 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-02-21 21:07:16 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_shulker_box": {
+    "criteria": {
+      "has_shulker_box": "2026-02-21 21:07:26 +0800"
     },
     "done": true
   },
@@ -3252,24 +3270,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2026-02-21 21:20:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
-    "criteria": {
-      "has_dark_prismarine": "2026-02-21 21:24:33 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-02-21 21:07:26 +0800"
@@ -3282,39 +3282,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_pillar": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-02-21 21:07:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
-    "criteria": {
-      "has_cactus_flower": "2026-02-21 21:15:03 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-02-21 21:20:57 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2026-02-21 21:24:33 +0800"
     },
     "done": true
   },
@@ -3330,27 +3300,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2026-02-21 22:26:41 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_pillar": {
-    "criteria": {
-      "has_purpur_block": "2026-02-21 21:06:10 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-02-21 21:07:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2026-02-21 21:15:44 +0800"
     },
     "done": true
   },
@@ -3360,51 +3312,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2026-02-21 21:24:33 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/yellow_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-02-21 21:07:26 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_stairs": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2026-02-21 21:15:44 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2026-02-21 21:07:13 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_shulker_box": {
     "criteria": {
       "has_shulker_box": "2026-02-21 21:07:26 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
-    "criteria": {
-      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
-    "criteria": {
-      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
     },
     "done": true
   },
@@ -3426,27 +3342,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
+  "minecraft:recipes/decorations/brown_shulker_box": {
     "criteria": {
-      "has_log": "2026-02-21 22:26:41 +0800"
+      "has_shulker_box": "2026-02-21 21:07:26 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "minecraft:recipes/misc/pink_dye_from_cactus_flower": {
     "criteria": {
-      "has_iron_block": "2026-02-21 22:25:59 +0800"
+      "has_cactus_flower": "2026-02-21 21:15:03 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+      "has_blue_orchid": "2026-02-21 21:15:44 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
     "criteria": {
-      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+      "has_blue_orchid": "2026-02-21 21:15:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2026-02-21 21:20:57 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-02-21 21:20:57 +0800"
     },
     "done": true
   },
@@ -3456,9 +3384,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_shulker_box": {
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
-      "has_shulker_box": "2026-02-21 21:07:26 +0800"
+      "has_dark_prismarine": "2026-02-21 21:24:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2026-02-21 21:24:33 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2026-02-21 21:24:33 +0800"
     },
     "done": true
   },
@@ -3468,15 +3408,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+      "has_diamond_block": "2026-02-21 22:01:58 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_honeycomb": {
+  "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
-      "has_oxidized_chiseled_copper": "2026-02-21 22:09:52 +0800"
+      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2026-02-21 22:02:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_chiseled_copper_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs_from_oxidized_cut_copper_stonecutting": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oxidized_cut_copper_slab": {
+    "criteria": {
+      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
     },
     "done": true
   },
@@ -3486,15 +3468,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
-      "has_glass": "2026-02-21 21:07:16 +0800"
+      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_honeycomb": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_chiseled_copper_from_honeycomb": {
     "criteria": {
-      "has_oxidized_copper_grate": "2026-02-21 22:32:58 +0800"
+      "has_oxidized_chiseled_copper": "2026-02-21 22:09:52 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_trapdoor_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_trapdoor": "2026-02-21 22:20:44 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2026-02-21 22:25:59 +0800"
     },
     "done": true
   },
@@ -3504,15 +3498,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
+  "minecraft:recipes/decorations/pale_oak_hanging_sign": {
     "criteria": {
-      "has_oxidized_cut_copper": "2026-02-21 22:09:46 +0800"
+      "has_stripped_logs": "2026-02-21 22:26:41 +0800"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+  "minecraft:recipes/building_blocks/stripped_pale_oak_wood": {
     "criteria": {
-      "has_purpur_block": "2026-02-21 21:06:10 +0800"
+      "has_log": "2026-02-21 22:26:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_grate_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_grate": "2026-02-21 22:32:58 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2026-04-04 22:06:10 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2026-04-04 22:05:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed": {
+    "criteria": {
+      "has_light_blue_wool": "2026-04-04 21:58:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_banner": {
+    "criteria": {
+      "has_light_blue_wool": "2026-04-04 21:58:56 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_door_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_copper_door": "2026-04-04 23:02:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet": {
+    "criteria": {
+      "has_cyan_wool": "2026-04-04 22:08:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2026-04-04 23:04:36 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_bed": {
+    "criteria": {
+      "has_cyan_wool": "2026-04-04 22:08:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_banner": {
+    "criteria": {
+      "has_cyan_wool": "2026-04-04 22:08:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2026-04-04 23:03:12 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2026-04-04 21:58:56 +0800"
     },
     "done": true
   },
