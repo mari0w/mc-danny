@@ -332,6 +332,7 @@
       "suspicious_stew": "2025-10-25 00:04:13 +0800",
       "cooked_mutton": "2025-10-01 17:57:59 +0800",
       "glow_berries": "2025-10-03 14:56:56 +0800",
+      "sweet_berries": "2026-05-16 21:59:49 +0800",
       "salmon": "2026-04-11 20:58:45 +0800",
       "cooked_beef": "2025-10-02 19:51:26 +0800",
       "beef": "2025-10-01 16:24:32 +0800",
@@ -1285,6 +1286,7 @@
     "criteria": {
       "minecraft:pillager": "2025-10-02 17:22:32 +0800",
       "minecraft:skeleton": "2026-02-09 21:28:20 +0800",
+      "minecraft:zombified_piglin": "2026-05-16 21:13:52 +0800",
       "minecraft:enderman": "2026-02-09 21:02:03 +0800",
       "minecraft:endermite": "2026-02-14 22:38:13 +0800",
       "minecraft:spider": "2025-11-07 22:54:13 +0800",
@@ -3731,6 +3733,84 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2026-05-15 21:54:18 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2026-05-16 22:10:42 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-16 21:55:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2026-05-16 20:58:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2026-05-16 22:02:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2026-05-16 20:58:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2026-05-16 22:02:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2026-05-16 20:58:26 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-05-16 22:15:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-16 21:55:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2026-05-16 22:15:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-16 21:55:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2026-05-16 21:55:51 +0800"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2026-05-16 22:05:46 +0800"
     },
     "done": true
   },
