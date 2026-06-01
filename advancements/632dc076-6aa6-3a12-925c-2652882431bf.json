@@ -4348,9 +4348,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/quartz_bricks": {
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
     "criteria": {
-      "has_quartz_block": "2026-05-29 23:08:27 +0800"
+      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
     },
     "done": true
   },
@@ -4360,9 +4384,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/waxed_copper_trapdoor_from_honeycomb": {
     "criteria": {
-      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
+      "has_copper_trapdoor": "2026-05-29 22:54:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2026-05-29 23:08:27 +0800"
     },
     "done": true
   },
@@ -4378,33 +4408,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
-    "criteria": {
-      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_trapdoor_from_honeycomb": {
-    "criteria": {
-      "has_copper_trapdoor": "2026-05-29 22:54:43 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_quartz": {
     "criteria": {
       "has_quartz_block": "2026-05-29 23:08:27 +0800"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
     },
     "done": true
   },
@@ -4426,9 +4432,93 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+  "minecraft:recipes/building_blocks/waxed_oxidized_copper_bulb_from_honeycomb": {
     "criteria": {
-      "has_red_nether_bricks": "2026-05-29 22:45:48 +0800"
+      "has_oxidized_copper_bulb": "2026-05-31 17:41:08 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-01 19:19:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-01 19:19:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-01 19:19:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2026-06-01 19:19:49 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-06-01 19:21:11 +0800"
     },
     "done": true
   },
