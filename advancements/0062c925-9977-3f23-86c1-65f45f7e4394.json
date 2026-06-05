@@ -543,7 +543,8 @@
       "apple": "2025-10-01 15:03:12 +0800",
       "cooked_chicken": "2025-10-05 17:25:13 +0800",
       "potato": "2026-01-18 19:44:33 +0800",
-      "pumpkin_pie": "2025-10-25 00:00:04 +0800"
+      "pumpkin_pie": "2025-10-25 00:00:04 +0800",
+      "carrot": "2026-06-05 21:36:30 +0800"
     },
     "done": false
   },
@@ -4688,6 +4689,42 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2026-06-01 20:29:25 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-05 20:26:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-05 20:26:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-05 20:26:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-05 20:26:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-05 20:26:19 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2026-06-05 20:26:19 +0800"
     },
     "done": true
   },
