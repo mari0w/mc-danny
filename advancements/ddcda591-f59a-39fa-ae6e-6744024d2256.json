@@ -4219,5 +4219,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2026-06-11 22:28:20 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pale_oak_wood": {
+    "criteria": {
+      "has_log": "2026-06-11 21:45:47 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
