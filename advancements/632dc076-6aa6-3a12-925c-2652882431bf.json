@@ -5575,5 +5575,11 @@
     },
     "done": true
   },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2026-10-01 22:00:16 +0800"
+    },
+    "done": true
+  },
   "DataVersion": 4440
 }
