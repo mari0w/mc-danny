@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-10-01 15:32:38 +0800",
+      "minecraft:beach": "2026-10-30 22:38:55 +0800",
       "minecraft:forest": "2025-10-01 11:46:01 +0800",
       "minecraft:taiga": "2025-10-01 15:17:38 +0800",
       "minecraft:river": "2025-10-01 15:02:51 +0800",
@@ -5479,9 +5480,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/magma_block": {
+  "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
-      "has_magma_cream": "2026-10-25 20:44:31 +0800"
+      "has_glass": "2026-10-25 20:05:42 +0800"
     },
     "done": true
   },
@@ -5503,12 +5504,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2026-10-25 20:05:42 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/dye_light_blue_bed": {
     "criteria": {
       "has_needed_dye": "2026-10-25 20:40:02 +0800"
@@ -5521,12 +5516,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/resin_bricks": {
-    "criteria": {
-      "has_resin_brick": "2026-10-25 20:42:40 +0800"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_blue_candle": {
     "criteria": {
       "has_light_blue_dye": "2026-10-25 20:40:02 +0800"
@@ -5536,6 +5525,24 @@
   "minecraft:recipes/tools/light_blue_bundle": {
     "criteria": {
       "has_light_blue_dye": "2026-10-25 20:40:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/resin_bricks": {
+    "criteria": {
+      "has_resin_brick": "2026-10-25 20:42:40 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2026-10-25 20:44:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2026-11-01 21:13:48 +0800"
     },
     "done": true
   },
