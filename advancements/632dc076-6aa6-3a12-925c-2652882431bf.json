@@ -12,18 +12,26 @@
       "minecraft:taiga": "2025-10-02 20:03:40 +0800",
       "minecraft:deep_cold_ocean": "2026-06-11 13:55:25 +0800",
       "minecraft:frozen_ocean": "2026-06-11 13:51:19 +0800",
+      "minecraft:desert": "2026-11-20 17:49:10 +0800",
       "minecraft:frozen_river": "2026-06-10 19:53:22 +0800",
       "minecraft:deep_frozen_ocean": "2026-06-18 21:55:44 +0800",
       "minecraft:ocean": "2026-05-02 20:29:14 +0800",
+      "minecraft:jungle": "2026-11-20 17:52:53 +0800",
       "minecraft:sunflower_plains": "2025-10-02 22:58:09 +0800",
       "minecraft:birch_forest": "2025-10-02 20:33:35 +0800",
       "minecraft:windswept_hills": "2026-06-07 18:05:54 +0800",
       "minecraft:old_growth_spruce_taiga": "2026-06-11 14:00:34 +0800",
       "minecraft:snowy_beach": "2026-06-18 21:47:16 +0800",
+      "minecraft:wooded_badlands": "2026-11-20 17:48:47 +0800",
+      "minecraft:warm_ocean": "2026-11-20 19:07:35 +0800",
+      "minecraft:badlands": "2026-11-20 17:48:43 +0800",
       "minecraft:flower_forest": "2025-10-02 23:02:28 +0800",
       "minecraft:beach": "2026-05-02 20:29:05 +0800",
       "minecraft:dark_forest": "2026-06-11 14:00:15 +0800",
+      "minecraft:mangrove_swamp": "2026-11-20 18:53:39 +0800",
+      "minecraft:sparse_jungle": "2026-11-20 17:31:35 +0800",
       "minecraft:river": "2025-10-02 20:03:10 +0800",
+      "minecraft:lukewarm_ocean": "2026-11-20 17:11:00 +0800",
       "minecraft:snowy_plains": "2026-06-10 19:50:50 +0800",
       "minecraft:stony_shore": "2026-06-11 13:49:31 +0800",
       "minecraft:dripstone_caves": "2025-10-18 23:35:36 +0800",
@@ -32,6 +40,7 @@
       "minecraft:grove": "2026-06-11 13:45:33 +0800",
       "minecraft:meadow": "2026-05-05 13:45:08 +0800",
       "minecraft:windswept_gravelly_hills": "2026-06-06 12:53:12 +0800",
+      "minecraft:savanna": "2026-11-20 17:05:57 +0800",
       "minecraft:plains": "2025-10-02 20:36:33 +0800",
       "minecraft:pale_garden": "2026-06-11 14:25:27 +0800"
     },
@@ -5578,6 +5587,84 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2026-10-01 22:00:16 +0800"
+    },
+    "done": true
+  },
+  "ats_more_animals_mod:recipes/rawtocookedduckmeat": {
+    "criteria": {
+      "has_ingredient_0": "2026-11-20 17:20:07 +0800"
+    },
+    "done": true
+  },
+  "ats_more_animals_mod:recipes/rawtocokkedduckmeat_3": {
+    "criteria": {
+      "has_ingredient_0": "2026-11-20 17:20:07 +0800"
+    },
+    "done": true
+  },
+  "ats_more_animals_mod:recipes/rawtocokkedduckmeat_2": {
+    "criteria": {
+      "has_ingredient_0": "2026-11-20 17:20:07 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2026-11-20 17:57:58 +0800"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/jungle": {
+    "criteria": {
+      "has_wood": "2026-11-20 17:57:58 +0800"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/oak": {
+    "criteria": {
+      "has_wood": "2026-11-20 18:00:50 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2026-11-20 18:05:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2026-11-20 18:05:27 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2026-11-20 18:19:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2026-11-20 18:20:31 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2026-11-20 18:20:39 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2026-11-20 18:55:12 +0800"
+    },
+    "done": true
+  },
+  "rechiseled:recipes/misc/chisel": {
+    "criteria": {
+      "recipe_condition": "2026-11-20 19:18:02 +0800"
     },
     "done": true
   },
